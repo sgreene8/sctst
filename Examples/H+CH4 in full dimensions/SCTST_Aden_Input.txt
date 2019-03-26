@@ -1,0 +1,17 @@
+Reaction mode frequency (a.u.)
+0.007485745694484494
+
+Forward barrier height w/ reac ZPE, reac G0, TS G0 (a.u.)
+-0.02117425835273947
+
+Reverse barrier height w/ prod ZPE, TS G0 (a.u.)
+-0.021913678476565265
+
+Reaction mode diagonal anharmonic constant (a.u.)
+-0.0007306605014485643
+
+Reactants ZPE (a.u.)
+0.04355924756137178
+
+Products ZPE (a.u.)
+0.04059987133055469
